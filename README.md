@@ -1,2 +1,2 @@
 # LoginRegister
-Login and Register functionality for android applications. Compatible with phpmyadmin database management system. 
+Login and Register functionality for android applications. Compatible with phpmyadmin administration tool.  
